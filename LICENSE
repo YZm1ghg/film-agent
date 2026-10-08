@@ -1,0 +1,66 @@
+MIT License
+
+Copyright (c) 2026 TXYZ
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+# 版权与使用说明 / Copyright & Usage Notice
+
+本许可（MIT）**仅覆盖本仓库作者原创的代码、提示词、知识整理与文档**。
+
+## 不包含任何书籍正文
+
+这两个插件（film-agent、photo-craft）**不附带任何书籍的正文、扫描页或 OCR 全文**。
+
+发布包中不包含语料目录（`corpus/out/`）。该目录在原开发环境中仅作为检索层的数据源存在，
+已在打包时整体移除。
+
+## 知识整理的性质
+
+`references/` 与 `knowledge/` 下的内容，是作者阅读专业著作后**自行撰写的领域知识整理**——
+包括方法论、判断依据、操作流程、检查清单与话术模板。它们是**原创的二次表述**，
+不是原文摘录，也不是原文的替代品。
+
+## 引用与出处
+
+插件具备"带页码的出处回溯"能力。该能力**作用于使用者自己提供的书籍库**：
+
+- 使用者须自行合法取得相关书籍（购买、借阅或自有电子版）。
+- 作者不提供、不分发、不引导获取任何书籍文件。
+- 检索得到的页码与摘录来自使用者自己的库，供其对照原书核验。
+
+## 关于书目名称
+
+插件文档中提及的书名（如有），仅用于说明知识来源与领域范围，属**合理引用**。
+其著作权归各自作者与出版方所有。
+
+## 使用者的责任
+
+使用者应确保自己使用本插件及其检索功能的方式，符合所在地法律及其所持书籍的授权范围。
+不得将本插件用于大规模复制、传播或再分发受版权保护的书籍内容。
+
+---
+
+# 第三方内容 / Third-Party Content
+
+- 本插件不捆绑、不再分发任何第三方书籍文件或 OCR 文本。
+- 目录中出现的电影名、摄影师名、品牌名等，均为各自权利人的商标或作品名称，
+  仅用于说明与评论，不表示任何隶属或背书关系。
