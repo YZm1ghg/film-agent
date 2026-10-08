@@ -1,0 +1,12 @@
+{
+  "name": "film-agent",
+  "version": "1.1.0",
+  "description": "Film & TV craft agent: screenwriting, directing, blocking, storyboards, cinematography, lighting, sound, editing, documentary, producing, shot-by-shot analysis — grounded in a professional film-craft reference library, with page-level citation lookup against your own library.",
+  "author": {
+    "name": "TXYZ"
+  },
+  "license": "MIT",
+  "skills": "skills",
+  "commands": "commands",
+  "agents": "agents"
+}
