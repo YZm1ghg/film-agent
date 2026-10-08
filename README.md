@@ -6,6 +6,39 @@
 知识体系由**一套影视专业书籍的知识库**提炼而成；检索层面向**用户自己的书库**
 （见下方「语料来源」）。
 
+## 安装
+
+### 方式一：下载发布包（推荐）
+
+到 [Releases](https://github.com/YZm1ghg/film-agent/releases) 下载
+`film-agent-v1.1.0.zip`，解压后放进你的插件目录：
+
+```
+<你的插件目录>/film-agent/
+```
+
+解压后应能看到 `.zcode-plugin/`、`commands/`、`skills/`、`README.md`、`LICENSE`。
+
+### 方式二：git clone
+
+```bash
+git clone https://github.com/YZm1ghg/film-agent.git
+```
+
+放到插件目录下即可，效果与方式一相同。
+
+### 依赖
+
+**无第三方依赖。** 这是一个纯提示词/知识型插件——不需要 Python、Node 或任何包管理器。
+
+> `skills/film-craft/corpus/` 下的脚本只在你想自建检索语料时才用得上，
+> 那部分需要 Python 与 OCR 环境，详见「语料来源」。
+
+### 验证安装
+
+装上后，输入 `/film` 或直接问一句影视相关问题。
+若能看到本技能被触发，即为安装成功。
+
 ## 能力
 
 | 命令 | 用途 |
